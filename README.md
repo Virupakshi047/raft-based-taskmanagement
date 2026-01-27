@@ -37,3 +37,7 @@ real-raft/
 - **Raft Visualization** - See leader election, log replication
 - **Node Status** - Real-time node states (Leader/Follower/Candidate)
 - **Fault Tolerance** - System works with node failures
+
+## Screen shots
+<img width="1600" height="1333" alt="localhost_5173_" src="https://github.com/user-attachments/assets/84bb0b64-b349-4975-858d-d87d8eaf47cb" />
+
