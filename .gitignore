@@ -43,7 +43,6 @@ frontend/*.local
 
 # Backend specific
 backend/venv/
-backend/__pycache__/
 backend/raft_logs/
 backend/*.log
 backend/db.sqlite3
